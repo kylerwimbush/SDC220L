@@ -1,1 +1,1 @@
-# SDC220L
+The purpose of the calculator is to allow the user to add, subtract, multiply, and divide values. They may also store a single value in memory, view that value, and change that value. They may store 10 values as well. With these 10 values, they can replace them, perform math on them, and view them.
